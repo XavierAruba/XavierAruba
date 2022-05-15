@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @XavierAruba
-- 👀 I’m interested in building ERP's.
+- 👋 Hi, I’m @XavierAruba.
+- 👀 I’m interested in building ERP's and learning to code in general.
 - 🌱 I’m currently learning relational databases on freecodecamp.org
 - 💞️ I’m looking to collaborate on anything really. I've built ERP's using FileMaker for sign companies, outdoor advertising agencies and I'm currently working on one for my local gym.
 - 📫 How to reach me on here?
